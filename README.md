@@ -57,7 +57,7 @@ The dataset consists of images stored in `X.npy` and their corresponding labels 
 | Further Enhanced CNN | **77.64%** |
 
 ## Model Comparison Plot
-![Model Comparison Plot](/Users/arkamandol/Downloads/Breast_cancer.png)
+![Model Comparison Plot](/plots/Breast_cancer.png)
 
 ## Observations
 - The CNN models performed better than traditional ML models, confirming their effectiveness in medical image classification.
